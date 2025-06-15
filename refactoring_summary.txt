@@ -1,0 +1,40 @@
+# Import 경로 리팩토링 요약
+
+## 개요
+프로젝트의 유지보수성과 확장성을 높이기 위해 컴포넌트 폴더 구조를 체계적으로 재구성하고, 이에 따라 전체 코드베이스의 `import` 경로를 업데이트했습니다.
+
+## 변경된 폴더 구조
+- `src/components`
+  - `features/`: 도메인 특화 컴포넌트 (e.g., chat, hero, research)
+  - `layout/`: 전체 레이아웃 관련 컴포넌트 (e.g., Navbar, Footer)
+  - `ui/`: 재사용 가능한 기본 UI 컴포넌트
+    - `data-display/`
+    - `feedback/`
+    - `form/`
+    - `layout/`
+    - `navigation/`
+
+## 주요 경로 변경 사항
+
+### 페이지 및 주요 기능 컴포넌트
+- `@/components/Navbar` → `@/components/layout/Navbar`
+- `@/components/Footer` → `@/components/layout/Footer`
+- `@/components/HeroSection` → `@/components/features/hero/HeroSection`
+- `@/components/ChatInterface` → `@/components/features/chat/ChatInterface`
+- `@/components/ChatModal` → `@/components/features/chat/ChatModal`
+- `@/components/ResearchNews` → `@/components/features/research/ResearchNews`
+
+### UI 컴포넌트 (일부 예시)
+- `@/components/ui/dialog` → `@/components/ui/layout/dialog`
+- `@/components/ui/card` → `@/components/ui/layout/card`
+- `@/components/ui/sheet` → `@/components/ui/layout/sheet`
+- `@/components/ui/textarea` → `@/components/ui/form/textarea`
+- `@/components/ui/input` → `@/components/ui/form/input`
+- `@/components/ui/label` → `@/components/ui/form/label`
+- `@/components/ui/toaster` → `@/components/ui/feedback/toaster`
+- `@/components/ui/sonner` → `@/components/ui/feedback/sonner`
+- `@/components/ui/toast` → `@/components/ui/feedback/toast`
+- `@/components/ui/skeleton` → `@/components/ui/feedback/skeleton`
+
+## 검증
+모든 경로 업데이트 후 `npm run build`를 실행하여 프로젝트가 성공적으로 빌드되는 것을 확인했습니다. 

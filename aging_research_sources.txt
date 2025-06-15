@@ -1,0 +1,181 @@
+# Aging Research Sources & Academic Databases
+
+이 문서는 Age-Wise AI Insight 프로젝트에서 참고하는 신뢰할 수 있는 aging 관련 학술 데이터베이스와 연구 기관들을 정리한 것입니다.
+
+## 주요 의학/과학 데이터베이스
+
+### 1. PubMed (최우선 검색 소스)
+- **URL**: https://pubmed.ncbi.nlm.nih.gov/
+- **설명**: 미국 국립의학도서관(NLM)에서 운영하는 의학 문헌 데이터베이스
+- **특징**: 생명과학 및 의학 분야 논문 검색의 표준
+- **Aging 관련**: 노화, 장수, 노인의학 관련 수많은 연구 논문 제공
+- **검색 우선순위**: 1순위
+
+### 2. Nature Aging
+- **URL**: https://www.nature.com/nataging/
+- **설명**: 세계 최고 수준의 노화 전문 과학 저널
+- **특징**: 고품질 peer-reviewed 연구 발표
+- **Aging 관련**: 노화 생물학, 장수 연구의 최고 권위 저널
+- **검색 우선순위**: 1순위
+
+### 3. Science Magazine
+- **URL**: https://www.science.org/
+- **설명**: 미국과학진흥협회(AAAS)에서 발행하는 권위 있는 과학 저널
+- **특징**: 다학제적 과학 연구 발표
+- **Aging 관련**: 노화 생물학, 장수 연구 등 최신 연구 동향 제공
+- **검색 우선순위**: 1순위
+
+## 정부 기관 및 연구소 (신뢰도 최고)
+
+### 4. NIH (National Institutes of Health)
+- **URL**: https://www.nih.gov/
+- **설명**: 미국 국립보건원
+- **특징**: 미국 정부의 의학 연구 기관
+- **Aging 관련**: 노화 연구에 대한 정부 차원의 투자와 정책 수립
+- **검색 우선순위**: 1순위
+
+### 5. NIA (National Institute on Aging)
+- **URL**: https://www.nia.nih.gov/
+- **설명**: NIH 산하 국립노화연구소
+- **특징**: 노화 과정과 연령 관련 질병 연구 전담 기관
+- **Aging 관련**: 노화 연구의 최고 권위 기관, 알츠하이머, 치매 등 연구
+- **검색 우선순위**: 1순위
+
+### 6. Administration on Aging (AoA)
+- **URL**: https://acl.gov/about-acl/administration-community-living
+- **설명**: 미국 보건복지부 산하 노인 관련 정책 기관
+- **특징**: 노인 복지 정책 및 서비스 제공
+- **Aging 관련**: 건강한 노화, 노인 돌봄 정책 연구
+- **검색 우선순위**: 2순위
+
+## 추가 신뢰할 수 있는 Aging 연구 사이트
+
+### 7. Aging Research (aging-us.com)
+- **URL**: https://www.aging-us.com/
+- **설명**: 노화 연구 전문 오픈 액세스 저널
+- **특징**: 노화 생물학, 병리학, 역학 분야 연구
+- **검색 우선순위**: 2순위
+
+### 8. The Journals of Gerontology
+- **URL**: https://academic.oup.com/biomedgerontology
+- **설명**: 노인학 분야 최고 권위 저널
+- **특징**: 생물학적, 의학적, 사회적 노화 연구
+- **검색 우선순위**: 2순위
+
+### 9. Age and Ageing
+- **URL**: https://academic.oup.com/ageing
+- **설명**: 영국노인의학회 공식 저널
+- **특징**: 임상 노인의학 중심 연구
+- **검색 우선순위**: 2순위
+
+### 10. Cochrane Library
+- **URL**: https://www.cochranelibrary.com/
+- **설명**: 체계적 문헌고찰 전문 데이터베이스
+- **특징**: 근거 중심 의학(EBM) 정보 제공
+- **Aging 관련**: 노화 관련 치료법의 효과성 검증 연구
+- **검색 우선순위**: 1순위 (메타분석 우선)
+
+## 신뢰할 수 있는 추가 소스
+
+### 11. Cell Journal
+- **URL**: https://www.cell.com/
+- **특징**: 세포 생물학 분야 최고 저널
+- **Aging 관련**: 세포 노화, 텔로미어 연구
+
+### 12. NEJM (New England Journal of Medicine)
+- **URL**: https://www.nejm.org/
+- **특징**: 임상의학 분야 최고 권위 저널
+- **Aging 관련**: 노화 관련 임상 연구
+
+### 13. Mechanisms of Ageing and Development
+- **URL**: https://www.journals.elsevier.com/mechanisms-of-ageing-and-development
+- **특징**: 노화 메커니즘 전문 저널
+
+### 14. Experimental Gerontology
+- **URL**: https://www.journals.elsevier.com/experimental-gerontology
+- **특징**: 실험적 노화 연구 전문
+
+### 15. Rejuvenation Research
+- **URL**: https://www.liebertpub.com/journal/rej
+- **특징**: 항노화 및 재생의학 연구
+
+## 영양제/성분 분석 전용 데이터베이스
+
+### 16. National Nutrient Database (USDA)
+- **URL**: https://fdc.nal.usda.gov/
+- **특징**: 식품 및 영양소 성분 분석
+
+### 17. Natural Medicines Database
+- **URL**: https://naturalmedicines.therapeuticresearch.com/
+- **특징**: 천연 의약품 및 보충제 효과성 평가
+
+### 18. Examine.com
+- **URL**: https://examine.com/
+- **특징**: 영양 보충제의 과학적 근거 분석
+
+## 검색 키워드 우선순위
+
+### 고우선순위 키워드 (반드시 포함)
+- aging mechanisms
+- longevity research
+- cellular senescence
+- age-related diseases
+- healthy aging
+- biomarkers of aging
+- anti-aging interventions
+- lifespan extension
+- gerontology
+- telomere research
+
+### 영양소 관련 전용 키워드
+- nutritional gerontology
+- aging nutrition
+- supplement efficacy aging
+- antioxidants aging
+- micronutrients longevity
+- dietary interventions aging
+- nutraceuticals gerontology
+
+### 한국어 키워드
+- 노화 메커니즘
+- 장수 연구
+- 세포 노화
+- 연령관련질환
+- 건강한 노화
+- 노화 바이오마커
+- 항노화 치료
+- 노화 예방
+
+## AI 답변 가이드라인
+
+### 검색 우선순위
+1. PubMed, NIH/NIA, Nature Aging, Science, Cochrane (1순위)
+2. The Journals of Gerontology, Age and Ageing, Aging Research (2순위)
+3. 기타 peer-reviewed 저널 (3순위)
+
+### 출처 인용 형식
+- "2023년 Nature Aging 저널에 발표된 연구에 따르면..." (DOI 포함)
+- "NIH 국립노화연구소의 2024년 보고서에서는..." (URL 포함)
+- "PubMed에 등록된 체계적 문헌고찰(Cochrane, 2023)에서는..."
+
+### 영양제/성분 분석 필수 프로세스
+1. 성분명 정확한 명시
+2. 해당 성분의 생체이용률 언급
+3. 권장 복용량 (FDA/WHO 기준)
+4. 부작용 및 상호작용 경고
+5. 최소 3개 이상의 무작위 대조군 연구(RCT) 인용
+6. 메타분석 결과 우선 인용
+
+### 주의사항
+
+1. **신뢰성 검증**: 모든 정보는 peer-reviewed 논문이나 공식 기관 자료를 우선적으로 참고
+2. **최신성 확인**: 노화 연구는 빠르게 발전하므로 최신 연구 동향 주의 깊게 관찰
+3. **다각적 접근**: 생물학적, 의학적, 사회적 측면을 모두 고려한 종합적 정보 제공
+4. **근거 중심**: 개인적 의견이나 검증되지 않은 정보는 배제
+5. **출처 링크**: 모든 주장에 대해 구체적인 출처 URL 제공
+6. **불확실성 명시**: 과학적 근거가 부족한 경우 명확히 표시
+
+---
+생성일: 2025년
+업데이트: 정기적으로 새로운 연구 동향 반영 예정 
+최종 수정: AI 검색 및 분석 기능 강화 

@@ -1,0 +1,7 @@
+project_id = "rpxhlgtsojovyyxodtcr"
+
+[functions.aging-chat]
+verify_jwt = false
+
+[functions.aging-simulation]
+verify_jwt = false
